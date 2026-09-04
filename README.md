@@ -58,11 +58,6 @@ A responsive quiz app with timed questions, score tracking, and an animated SVG 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabakhurram&show_icons=true&theme=default&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabakhurram&layout=compact&hide_border=true" width="30%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabakhurram&hide_border=true" width="49%" />
 </p>
 
